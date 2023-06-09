@@ -1,0 +1,6 @@
+[submodule "zarf/proto/include/googleapis"]
+	path = zarf/proto/include/googleapis
+	url = git@github.com:googleapis/googleapis.git
+[submodule "zarf/proto/include/gateway"]
+	path = zarf/proto/include/gateway
+	url = git@github.com:grpc-ecosystem/grpc-gateway.git
