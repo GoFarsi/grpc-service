@@ -1,0 +1,15 @@
+syntax = "proto3";
+package zarf.proto.greeting.v1;
+option go_package = "github.com/GoFarsi/grpc-service/zarf/gen/greeting/v1;greeting";
+
+service GreetingService {
+
+}
+
+message GreetingRequest {
+
+}
+
+message GreetingResponse {
+
+}
